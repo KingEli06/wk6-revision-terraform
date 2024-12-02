@@ -2,4 +2,5 @@
 .terraform
 bash.exe.stackdump
 terraform.*
+backend-copy.tf
 
